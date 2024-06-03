@@ -23,7 +23,7 @@ const features = [
   },
   {
     title: "Easy Integration",
-    description: "From all online store solutions to cloud ERPs, Crest integrates seamlessly with your current tech and ops stack. What’s more? Connecting them to Crest will give you actionable insights.",
+    description: "From all online store solutions to cloud ERPs, Clerk Books integrates seamlessly with your current tech and ops stack. What’s more? Connecting them to Clerk Books will give you actionable insights.",
     img: "./feature/2.png" // replace with actual image path
   },
   {

@@ -5,21 +5,21 @@ const data = [
   {
     name: "Diksha Pande",
     position: "Co-founder, Samosa Party",
-    text: "D2C brands face issues with supply chain management and high growth startups are not equipped to run their demand forecast manually. Crest automates all the workflows and helps brands predict high demand periods and be ready to cater to customer demands. It has a direct impact on the revenue readiness of a company and that's the value we see Crest unlocking for many companies in the future. Rahul and team have built a robust product with years of their experience distilled into the workflows.",
+    text: "D2C brands face issues with supply chain management and high growth startups are not equipped to run their demand forecast manually. Clerk Books automates all the workflows and helps brands predict high demand periods and be ready to cater to customer demands. It has a direct impact on the revenue readiness of a company and that's the value we see Clerk Books unlocking for many companies in the future. Rahul and team have built a robust product with years of their experience distilled into the workflows.",
     img: "./carousel-img/2.jpg", // replace with actual image path
     img2:"./carousel-img/image.png"
   },
   {
     name: "John Doe",
     position: "CEO, Example Corp",
-    text: "Crest has significantly improved our supply chain efficiency and helped us predict demand accurately. The team at Crest is fantastic and their product is top-notch.Crest has significantly improved our supply chain efficiency and helped us predict demand accurately. The team at Crest is fantastic and their product is top-notch. The team at Crest is fantastic and their product is top-notch.",
+    text: "Clerk Books has significantly improved our supply chain efficiency and helped us predict demand accurately. The team at Clerk Books is fantastic and their product is top-notch.Clerk Books has significantly improved our supply chain efficiency and helped us predict demand accurately. The team at Clerk Books is fantastic and their product is top-notch. The team at Clerk Books is fantastic and their product is top-notch.",
     img: "./carousel-img/1.jpg", // replace with actual image path
     img2:"./carousel-img/image.png"
   },
   {
     name:"Daina Louis",
     position:"Co-founder, XYZ",
-    text:"Crest is a game-changer for us. It has helped us streamline our supply chain and improve our overall efficiency.    Crest has significantly improved our supply chain efficiency and helped us predict demand accurately. The team at Crest is fantastic and their product",
+    text:"Clerk Books is a game-changer for us. It has helped us streamline our supply chain and improve our overall efficiency.    Clerk Books has significantly improved our supply chain efficiency and helped us predict demand accurately. The team at Clerk Books is fantastic and their product",
     img:"./carousel-img/3.jpg",
     img2:"./carousel-img/image.png"
   }

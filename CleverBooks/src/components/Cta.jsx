@@ -9,7 +9,7 @@ const Cta = () => {
           You can grow faster than you think!
           </h1>
           <p className='mt-4 text-md sm:text-lg text-center text-white'>
-          Plan with Crest to fulfil your demand today, and dreams tomorrow. We bring the methods and technologies of large global companies to help brands of all sizes scale.
+          Plan with Clerk Book to fulfil your demand today, and dreams tomorrow. We bring the methods and technologies of large global companies to help brands of all sizes scale.
           </p>
           <button className='mt-8 px-8 py-3 text-lg font-semibold text-white bg-slate-900 rounded-lg hover:bg-purple-600'>
             Get Started
